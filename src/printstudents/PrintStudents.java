@@ -13,10 +13,11 @@ public class PrintStudents {
     /**
      * @param args the command line arguments
      */
+    //monday
     public static void main(String[] args) {
         // TODO code application logic here
         //print 3 students name,sid using array of objects
-        Student[] list = new Student [3]; //size of array of objects
+        Student[] list = new Student [2]; //size of array of objects
         
         Student s1 = new Student();
         s1.setName("peter");
